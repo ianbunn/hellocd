@@ -1,4 +1,3 @@
-< a min
 package com.example.hellocd;
 
 import org.springframework.boot.*;
